@@ -8,7 +8,7 @@ How you submit your problem sets will be a little bit different now. You will be
 4. You will download your Colab notebook to your computer, move it into this repository, and add, commit, and push it to GitHub, just like you have done for previous problem sets.
 5. You will *not* alter the Colab notebook after the deadline. If you do -- even just to fix a typo! -- it will look like you turned the notebook in late.
 
-[Here is a link to the Colab notebook]([https://colab.research.google.com/drive/1MxY6znCsQHzbl4hmHYcoQS2tKOefcwIo?usp=sharing](https://colab.research.google.com/drive/1LkEnXfGb9tlONWgWkgSXcCS3tCveoSo5?usp=sharing)).
+[Here is a link to the Colab notebook](https://colab.research.google.com/drive/1LkEnXfGb9tlONWgWkgSXcCS3tCveoSo5?usp=sharing)
 
 I will post a copy of my Colab notebook from class, which has lots of examples answering the same kinds of questions and using all the necssary functions. 
 
